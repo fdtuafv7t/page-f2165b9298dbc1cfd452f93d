@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.bainubaba.cn/sitemap.xml
